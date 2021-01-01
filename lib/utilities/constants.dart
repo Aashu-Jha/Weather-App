@@ -19,4 +19,3 @@ const kConditionTextStyle = TextStyle(
   fontSize: 100.0,
 );
 
-const apiKey = '90ff3390cf346dfe1bdab6cec2c8dea3';
